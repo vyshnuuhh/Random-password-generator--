@@ -28,7 +28,7 @@ Open:
 http://localhost:8000
 ```
 
-simply open **index.html** in your web browser.
+simply open your web browser.
 
 ## 👨‍💻 Author
 
