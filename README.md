@@ -10,3 +10,26 @@ A modern and responsive Random Password Generator built using HTML, CSS, and Jav
 📋 Copy password to clipboard
 📱 Responsive and modern UI
 ⚡ Built with pure HTML, CSS, and JavaScript
+
+
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/vyshnuuhh/Random-password-generator.git
+cd Random-password-generator
+python -m http.server 8000
+```
+
+Open:
+
+```
+http://localhost:8000
+```
+
+Or simply open **index.html** in your web browser.
+
+## 👨‍💻 Author
+
+**Vyshnav**  
+GitHub: https://github.com/vyshnuuhh
